@@ -12,3 +12,4 @@ This repository holds the presentations and lab exercises for the CICS Integrati
 7. L97 - RESTful APIs with z/OS Connect
 
 ## CICS Integration Workshop
+1. CICS_API_for_Java.pdf
