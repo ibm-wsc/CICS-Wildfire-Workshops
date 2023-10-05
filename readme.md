@@ -2,6 +2,11 @@ This repository holds the presentations and lab exercises for the CICS Integrati
 
 ## CICS-Java Workshop
 ### Presentations
+1. CICS API for Java
+2. OSGi JVM Servers
+3. Liberty Profile JVM Servers
+4. Java and Databases
+5. Debugging and Tuning Hints
 ### Lab Exercises
 1. L01 - Introduction to the Java Workshop
 2. L34 - CICS OGSi Program
@@ -12,4 +17,5 @@ This repository holds the presentations and lab exercises for the CICS Integrati
 7. L97 - RESTful APIs with z/OS Connect
 
 ## CICS Integration Workshop
-1. CICS_API_for_Java.pdf
+### Presentations
+### Lab Exercises
