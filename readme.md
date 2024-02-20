@@ -19,3 +19,5 @@ This repository holds the presentations and lab exercises for the CICS Integrati
 ## CICS Integration Workshop
 ### Presentations
 ### Lab Exercises
+1. L20 - SOAP based Web Services using the CICS Pipeline
+2. L90 - JSON based Web Services using the CICS Pipeline
