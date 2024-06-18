@@ -18,6 +18,10 @@ This repository holds the presentations and lab exercises for the CICS Integrati
 
 ## CICS Integration Workshop
 ### Presentations
+1. P02 - Overview of CICS Integration Options
+2. P20 - Web Services in CICS
+3. P90 - CICS, REST, and JSON
+4. P95 - Using Java for Integration with CICS
 ### Lab Exercises
 1. L20 - SOAP based Web Services using the CICS Pipeline
 2. L90 - JSON based Web Services using the CICS Pipeline
