@@ -25,3 +25,7 @@ This repository holds the print version of the presentations and lab exercises f
 ### Lab Exercises
 1. L20 - SOAP based Web Services using the CICS Pipeline
 2. L90 - JSON based Web Services using the CICS Pipeline
+
+
+
+Source files can be found at https://github.com/ibm-wsc/CICS-Wildfire-Source-Files 
