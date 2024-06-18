@@ -1,4 +1,4 @@
-This repository holds the presentations and lab exercises for the CICS Integration Wildfire Workshop and CICS-Java Wildfire Workshop.
+This repository holds the print version of the presentations and lab exercises for the CICS Integration Wildfire Workshop and CICS-Java Wildfire Workshop. The PDF files found here can be shared with customers and business partners.
 
 ## CICS-Java Workshop
 ### Presentations
