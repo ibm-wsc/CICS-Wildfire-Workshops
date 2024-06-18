@@ -24,7 +24,9 @@ This repository holds the print version of the presentations and lab exercises f
 4. P95 - Using Java for Integration with CICS
 ### Lab Exercises
 1. L20 - SOAP based Web Services using the CICS Pipeline
-2. L90 - JSON based Web Services using the CICS Pipeline
+2. L72 - Servlet with LINK to CICS COBOL program (in Java Labs folder)
+3. L90 - JSON based Web Services using the CICS Pipeline
+4. L93 - JAX-RS and JSON with LINK to CIC COBOL program (in Java Labs folder)
 
 
 
